@@ -13,10 +13,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by zerones on 04-Oct-17.
- */
-
 public class MyCategoriesExpandableListAdapter extends BaseExpandableListAdapter {
 
     private final ArrayList<ArrayList<HashMap<String, String>>> childItems;
